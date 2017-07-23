@@ -2,67 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b794abd-50c0-4690-bba8-ae015e5697a9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/sample.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignments/chatbot/README.md" afterPath="$PROJECT_DIR$/assignments/chatbot/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignments/chatbot/chatbot.py" afterPath="$PROJECT_DIR$/assignments/chatbot/chatbot.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignments/chatbot/config.py" afterPath="$PROJECT_DIR$/assignments/chatbot/config.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignments/chatbot/data.py" afterPath="$PROJECT_DIR$/assignments/chatbot/data.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignments/chatbot/model.py" afterPath="$PROJECT_DIR$/assignments/chatbot/model.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignments/chatbot/output_convo.txt" afterPath="$PROJECT_DIR$/assignments/chatbot/output_convo.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignments/exercises/e01.py" afterPath="$PROJECT_DIR$/assignments/exercises/e01.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignments/exercises/e01_sol.py" afterPath="$PROJECT_DIR$/assignments/exercises/e01_sol.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignments/style_transfer/readme.md" afterPath="$PROJECT_DIR$/assignments/style_transfer/readme.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignments/style_transfer/style_transfer.py" afterPath="$PROJECT_DIR$/assignments/style_transfer/style_transfer.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignments/style_transfer/utils.py" afterPath="$PROJECT_DIR$/assignments/style_transfer/utils.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignments/style_transfer/vgg_model.py" afterPath="$PROJECT_DIR$/assignments/style_transfer/vgg_model.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignments/style_transfer_starter/readme.md" afterPath="$PROJECT_DIR$/assignments/style_transfer_starter/readme.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignments/style_transfer_starter/style_transfer.py" afterPath="$PROJECT_DIR$/assignments/style_transfer_starter/style_transfer.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignments/style_transfer_starter/utils.py" afterPath="$PROJECT_DIR$/assignments/style_transfer_starter/utils.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignments/style_transfer_starter/vgg_model.py" afterPath="$PROJECT_DIR$/assignments/style_transfer_starter/vgg_model.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/arvix_abstracts.txt" afterPath="$PROJECT_DIR$/data/arvix_abstracts.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/heart.csv" afterPath="$PROJECT_DIR$/data/heart.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/heart.txt" afterPath="$PROJECT_DIR$/data/heart.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/02_feed_dict.py" afterPath="$PROJECT_DIR$/examples/02_feed_dict.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/02_lazy_loading.py" afterPath="$PROJECT_DIR$/examples/02_lazy_loading.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/02_simple_tf.py" afterPath="$PROJECT_DIR$/examples/02_simple_tf.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/02_variables.py" afterPath="$PROJECT_DIR$/examples/02_variables.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/03_linear_regression_sol.py" afterPath="$PROJECT_DIR$/examples/03_linear_regression_sol.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/03_linear_regression_starter.py" afterPath="$PROJECT_DIR$/examples/03_linear_regression_starter.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/03_logistic_regression_mnist_sol.py" afterPath="$PROJECT_DIR$/examples/03_logistic_regression_mnist_sol.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/03_logistic_regression_mnist_starter.py" afterPath="$PROJECT_DIR$/examples/03_logistic_regression_mnist_starter.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/04_word2vec_no_frills.py" afterPath="$PROJECT_DIR$/examples/04_word2vec_no_frills.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/04_word2vec_starter.py" afterPath="$PROJECT_DIR$/examples/04_word2vec_starter.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/04_word2vec_visualize.py" afterPath="$PROJECT_DIR$/examples/04_word2vec_visualize.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/05_csv_reader.py" afterPath="$PROJECT_DIR$/examples/05_csv_reader.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/05_randomization.py" afterPath="$PROJECT_DIR$/examples/05_randomization.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/07_basic_filters.py" afterPath="$PROJECT_DIR$/examples/07_basic_filters.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/07_convnet_mnist.py" afterPath="$PROJECT_DIR$/examples/07_convnet_mnist.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/07_convnet_mnist_starter.py" afterPath="$PROJECT_DIR$/examples/07_convnet_mnist_starter.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/09_queue_example.py" afterPath="$PROJECT_DIR$/examples/09_queue_example.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/09_tfrecord_example.py" afterPath="$PROJECT_DIR$/examples/09_tfrecord_example.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/11_char_rnn_gist.py" afterPath="$PROJECT_DIR$/examples/11_char_rnn_gist.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/autoencoder/autoencoder.py" afterPath="$PROJECT_DIR$/examples/autoencoder/autoencoder.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/autoencoder/layer_utils.py" afterPath="$PROJECT_DIR$/examples/autoencoder/layer_utils.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/autoencoder/layers.py" afterPath="$PROJECT_DIR$/examples/autoencoder/layers.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/autoencoder/train.py" afterPath="$PROJECT_DIR$/examples/autoencoder/train.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/autoencoder/utils.py" afterPath="$PROJECT_DIR$/examples/autoencoder/utils.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/cgru/README.md" afterPath="$PROJECT_DIR$/examples/cgru/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/cgru/custom_getter.py" afterPath="$PROJECT_DIR$/examples/cgru/custom_getter.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/cgru/data_reader.py" afterPath="$PROJECT_DIR$/examples/cgru/data_reader.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/cgru/my_layers.py" afterPath="$PROJECT_DIR$/examples/cgru/my_layers.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/cgru/neural_gpu_v3.py" afterPath="$PROJECT_DIR$/examples/cgru/neural_gpu_v3.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/data/arvix_abstracts.txt" afterPath="$PROJECT_DIR$/examples/data/arvix_abstracts.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/data/heart.csv" afterPath="$PROJECT_DIR$/examples/data/heart.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/data/heart.txt" afterPath="$PROJECT_DIR$/examples/data/heart.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/deepdream/deepdream_exercise.py" afterPath="$PROJECT_DIR$/examples/deepdream/deepdream_exercise.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/deepdream/deepdream_solution.py" afterPath="$PROJECT_DIR$/examples/deepdream/deepdream_solution.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/kernels.py" afterPath="$PROJECT_DIR$/examples/kernels.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/process_data.py" afterPath="$PROJECT_DIR$/examples/process_data.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/utils.py" afterPath="$PROJECT_DIR$/examples/utils.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/setup/setup_instruction.md" afterPath="$PROJECT_DIR$/setup/setup_instruction.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -97,7 +38,7 @@
       <file leaf-file-name="04_word2vec_no_frills.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/examples/04_word2vec_no_frills.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
+            <state relative-caret-position="221">
               <caret line="17" column="37" lean-forward="false" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
               <folding />
             </state>
@@ -107,18 +48,28 @@
       <file leaf-file-name="04_word2vec_visualize.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/examples/04_word2vec_visualize.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1530">
+            <state relative-caret-position="765">
               <caret line="49" column="26" lean-forward="false" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sample.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sample.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/examples/sample.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
+            <state relative-caret-position="136">
               <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -141,14 +92,15 @@
       <list>
         <option value="$PROJECT_DIR$/examples/04_word2vec_visualize.py" />
         <option value="$PROJECT_DIR$/examples/sample.py" />
+        <option value="$PROJECT_DIR$/test" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1932" />
-    <option name="height" value="1048" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -218,7 +170,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
-    <property name="last_opened_file_path" value="D:/python-3.6.2-embed-win32/python.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -402,13 +354,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1932" height="1048" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973877" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -433,6 +385,38 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/examples/02_feed_dict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/04_word2vec_no_frills.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="17" column="37" lean-forward="false" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/04_word2vec_visualize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="49" column="26" lean-forward="false" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/sample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/examples/02_feed_dict.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -482,7 +466,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/examples/04_word2vec_no_frills.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
+        <state relative-caret-position="221">
           <caret line="17" column="37" lean-forward="false" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
           <folding />
         </state>
@@ -490,7 +474,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/examples/04_word2vec_visualize.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1530">
+        <state relative-caret-position="765">
           <caret line="49" column="26" lean-forward="false" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
           <folding />
         </state>
@@ -498,8 +482,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/examples/sample.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
+        <state relative-caret-position="136">
           <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
           <folding />
         </state>
       </provider>
