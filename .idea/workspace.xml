@@ -1,69 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b794abd-50c0-4690-bba8-ae015e5697a9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/sample.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignments/chatbot/README.md" afterPath="$PROJECT_DIR$/assignments/chatbot/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignments/chatbot/chatbot.py" afterPath="$PROJECT_DIR$/assignments/chatbot/chatbot.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignments/chatbot/config.py" afterPath="$PROJECT_DIR$/assignments/chatbot/config.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignments/chatbot/data.py" afterPath="$PROJECT_DIR$/assignments/chatbot/data.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignments/chatbot/model.py" afterPath="$PROJECT_DIR$/assignments/chatbot/model.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignments/chatbot/output_convo.txt" afterPath="$PROJECT_DIR$/assignments/chatbot/output_convo.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignments/exercises/e01.py" afterPath="$PROJECT_DIR$/assignments/exercises/e01.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignments/exercises/e01_sol.py" afterPath="$PROJECT_DIR$/assignments/exercises/e01_sol.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignments/style_transfer/readme.md" afterPath="$PROJECT_DIR$/assignments/style_transfer/readme.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignments/style_transfer/style_transfer.py" afterPath="$PROJECT_DIR$/assignments/style_transfer/style_transfer.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignments/style_transfer/utils.py" afterPath="$PROJECT_DIR$/assignments/style_transfer/utils.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignments/style_transfer/vgg_model.py" afterPath="$PROJECT_DIR$/assignments/style_transfer/vgg_model.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignments/style_transfer_starter/readme.md" afterPath="$PROJECT_DIR$/assignments/style_transfer_starter/readme.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignments/style_transfer_starter/style_transfer.py" afterPath="$PROJECT_DIR$/assignments/style_transfer_starter/style_transfer.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignments/style_transfer_starter/utils.py" afterPath="$PROJECT_DIR$/assignments/style_transfer_starter/utils.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignments/style_transfer_starter/vgg_model.py" afterPath="$PROJECT_DIR$/assignments/style_transfer_starter/vgg_model.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/arvix_abstracts.txt" afterPath="$PROJECT_DIR$/data/arvix_abstracts.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/heart.csv" afterPath="$PROJECT_DIR$/data/heart.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/heart.txt" afterPath="$PROJECT_DIR$/data/heart.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/02_feed_dict.py" afterPath="$PROJECT_DIR$/examples/02_feed_dict.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/02_lazy_loading.py" afterPath="$PROJECT_DIR$/examples/02_lazy_loading.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/02_simple_tf.py" afterPath="$PROJECT_DIR$/examples/02_simple_tf.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/02_variables.py" afterPath="$PROJECT_DIR$/examples/02_variables.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/03_linear_regression_sol.py" afterPath="$PROJECT_DIR$/examples/03_linear_regression_sol.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/03_linear_regression_starter.py" afterPath="$PROJECT_DIR$/examples/03_linear_regression_starter.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/03_logistic_regression_mnist_sol.py" afterPath="$PROJECT_DIR$/examples/03_logistic_regression_mnist_sol.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/03_logistic_regression_mnist_starter.py" afterPath="$PROJECT_DIR$/examples/03_logistic_regression_mnist_starter.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/04_word2vec_no_frills.py" afterPath="$PROJECT_DIR$/examples/04_word2vec_no_frills.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/04_word2vec_starter.py" afterPath="$PROJECT_DIR$/examples/04_word2vec_starter.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/04_word2vec_visualize.py" afterPath="$PROJECT_DIR$/examples/04_word2vec_visualize.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/05_csv_reader.py" afterPath="$PROJECT_DIR$/examples/05_csv_reader.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/05_randomization.py" afterPath="$PROJECT_DIR$/examples/05_randomization.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/07_basic_filters.py" afterPath="$PROJECT_DIR$/examples/07_basic_filters.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/07_convnet_mnist.py" afterPath="$PROJECT_DIR$/examples/07_convnet_mnist.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/07_convnet_mnist_starter.py" afterPath="$PROJECT_DIR$/examples/07_convnet_mnist_starter.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/09_queue_example.py" afterPath="$PROJECT_DIR$/examples/09_queue_example.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/09_tfrecord_example.py" afterPath="$PROJECT_DIR$/examples/09_tfrecord_example.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/11_char_rnn_gist.py" afterPath="$PROJECT_DIR$/examples/11_char_rnn_gist.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/autoencoder/autoencoder.py" afterPath="$PROJECT_DIR$/examples/autoencoder/autoencoder.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/autoencoder/layer_utils.py" afterPath="$PROJECT_DIR$/examples/autoencoder/layer_utils.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/autoencoder/layers.py" afterPath="$PROJECT_DIR$/examples/autoencoder/layers.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/autoencoder/train.py" afterPath="$PROJECT_DIR$/examples/autoencoder/train.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/autoencoder/utils.py" afterPath="$PROJECT_DIR$/examples/autoencoder/utils.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/cgru/README.md" afterPath="$PROJECT_DIR$/examples/cgru/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/cgru/custom_getter.py" afterPath="$PROJECT_DIR$/examples/cgru/custom_getter.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/cgru/data_reader.py" afterPath="$PROJECT_DIR$/examples/cgru/data_reader.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/cgru/my_layers.py" afterPath="$PROJECT_DIR$/examples/cgru/my_layers.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/cgru/neural_gpu_v3.py" afterPath="$PROJECT_DIR$/examples/cgru/neural_gpu_v3.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/data/arvix_abstracts.txt" afterPath="$PROJECT_DIR$/examples/data/arvix_abstracts.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/data/heart.csv" afterPath="$PROJECT_DIR$/examples/data/heart.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/data/heart.txt" afterPath="$PROJECT_DIR$/examples/data/heart.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/deepdream/deepdream_exercise.py" afterPath="$PROJECT_DIR$/examples/deepdream/deepdream_exercise.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/deepdream/deepdream_solution.py" afterPath="$PROJECT_DIR$/examples/deepdream/deepdream_solution.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/kernels.py" afterPath="$PROJECT_DIR$/examples/kernels.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/process_data.py" afterPath="$PROJECT_DIR$/examples/process_data.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/utils.py" afterPath="$PROJECT_DIR$/examples/utils.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/setup/setup_instruction.md" afterPath="$PROJECT_DIR$/setup/setup_instruction.md" />
-    </list>
+    <list default="true" id="9b794abd-50c0-4690-bba8-ae015e5697a9" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -117,8 +55,8 @@
       <file leaf-file-name="sample.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/examples/sample.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+            <state relative-caret-position="306">
+              <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -287,24 +225,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="sample" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examples" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="tf-stanford-tutorials" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples/sample.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -370,18 +290,35 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
+    <configuration default="false" name="sample" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tf-stanford-tutorials" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples/sample.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
     <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Python.02_feed_dict" />
-      <item index="1" class="java.lang.String" itemvalue="Python.04_word2vec_no_frills" />
-      <item index="2" class="java.lang.String" itemvalue="Python.04_word2vec_visualize" />
-      <item index="3" class="java.lang.String" itemvalue="Python.sample" />
+      <item index="0" class="java.lang.String" itemvalue="Python.sample" />
+      <item index="1" class="java.lang.String" itemvalue="Python.02_feed_dict" />
+      <item index="2" class="java.lang.String" itemvalue="Python.04_word2vec_no_frills" />
+      <item index="3" class="java.lang.String" itemvalue="Python.04_word2vec_visualize" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.sample" />
-        <item index="1" class="java.lang.String" itemvalue="Python.04_word2vec_visualize" />
-        <item index="2" class="java.lang.String" itemvalue="Python.04_word2vec_no_frills" />
-        <item index="3" class="java.lang.String" itemvalue="Python.02_feed_dict" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.04_word2vec_visualize" />
+        <item index="1" class="java.lang.String" itemvalue="Python.04_word2vec_no_frills" />
+        <item index="2" class="java.lang.String" itemvalue="Python.02_feed_dict" />
       </list>
     </recent_temporary>
   </component>
@@ -498,8 +435,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/examples/sample.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        <state relative-caret-position="306">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
           <folding />
         </state>
       </provider>
